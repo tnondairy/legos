@@ -1,4 +1,4 @@
-# legos
+# Legos
 Infrastructure base repos for our cloud systemd 
 
 # Mediums used
