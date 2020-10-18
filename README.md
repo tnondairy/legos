@@ -2,11 +2,11 @@
 Infrastructure base repos for our cloud systemd 
 
 # Mediums used
-- Azure 
-- Alpine Linux 
-- Kubernetes
+- Azure (Foundation)
+- Alpine Linux (Flooring and Pipes)
+- Kubernetes (Hot water heater, furnace)
 - node.js 
 - circleci 
 - prometheus 
 - graphana 
-- terraform
+- terraform (home contractor) 
